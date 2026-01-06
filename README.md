@@ -17,9 +17,13 @@ Applied filters and parameters for dynamic data exploration
 Dashboard Features
 
 KPI indicators for Sales, Profit Margin, and Return Rate
+
 Parameter-driven views to switch between Sales, Profit, and Orders
+
 State-wise sales map for regional performance analysis
+
 Category and sub-category performance insights
+
 Interactive filters and dashboard actions
 
 Tools Used
